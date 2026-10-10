@@ -35,12 +35,12 @@ We aim to build a hyper-local reporting platform that enables citizens to submit
 
 | No. | Team Member Name | USN | Role |
 |---|---|---|---|
-| 1 | [Aishik Roy] | [2392608067] | Team Lead & Integration |
-| 2 | [ Shambhuraje Kendre] | [2392608003] | Frontend Development |
-| 3 | [Ranjan Kumar Sahu] | [2392608057] | Backend & APIs |
-| 4 | [ Ziyad Azmat Parkar] | [2392608237] | Database & Maps |
-| 5 | [Harshit Vyas] | [2392608125] | Testing & Documentation |
-| 6 | [Sambhav Bohra] | [2392608043] | PPT & Framework Handling
+| 1 | Aishik Roy | 2392608067 | Team Lead & Integration |
+| 2 | Shambhuraje Kendre | 2392608003 | Frontend Development |
+| 3 | Ranjan Kumar Sahu | 2392608057 | Backend & APIs |
+| 4 |  Ziyad Azmat Parkar | 2392608237 | Database & Maps |
+| 5 | Harshit Vyas | 2392608125 | Testing & Documentation |
+| 6 | Sambhav Bohra | 2392608043 | PPT & Framework Handling
 
 
 ---
@@ -155,14 +155,6 @@ The following are proposed technology options. Keep only the technologies actual
 
 **Note:** These are technology options, not a claim that all of them have been implemented.
 
-###  Prototype & Demo
-
-- **Live Demo:** [Add your deployed application URL]
-- **Demo Video:** [Add your demonstration video URL]
-- **Screenshots:** Add screenshots of your actual working application here.
-
----
-
 ##  4. Clear Run & Installation Instructions
 
 ###  Prerequisites
@@ -185,8 +177,8 @@ Install the tools required by your chosen implementation.
 Open your terminal and run:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_NAME>
+git clone <https://github.com/ziyadparkar01/Tesseract>
+cd <Tesseract>
 ```
 
 Replace the placeholders with your actual GitHub repository URL and directory name.
