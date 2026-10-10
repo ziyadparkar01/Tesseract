@@ -1,0 +1,11 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix Remix Echoquest",
+  "description": "Imported from GitHub: ziyadparkar446-arch/Echoquest",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
