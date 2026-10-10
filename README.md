@@ -367,8 +367,8 @@ Please do not include sensitive personal information, private location data, or 
 
 For questions, feedback, or collaboration, contact the team through GitHub Issues or Discussions.
 
-- **Repository:** [Add your repository URL]
-- **Team Contact:** [Aishik Roy - 9257203509/aishik.roy1234@gmail.com]
+- **Repository:** (https://tesseract-nine-theta.vercel.app/)
+- **Team Contact:** Aishik Roy - 9257203509/aishik.roy1234@gmail.com
 
 ---
 
