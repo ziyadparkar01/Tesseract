@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=700&color=2563EB&center=true&vCenter=true&width=800&lines=Initializing...;Street-Level+Civic+Hazard+Tracker;Making+Our+Streets+Safer...;Report.+Track.+Resolve." alt="Typing Animation"/>
 </p>
 
-<h1 align="center">🚧 Street-Level Civic & Road Hazard Tracker hi  </h1> 
+<h1 align="center">🚧 Street-Level Civic & Road Hazard Tracker</h1> 
 
 <h3 align="center">A smarter, faster way to report road hazards and make our streets safer.</h3>
 
