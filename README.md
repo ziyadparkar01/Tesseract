@@ -49,7 +49,7 @@ We aim to build a hyper-local reporting platform that enables citizens to submit
 
 ###  Our Solution
 
-https://drive.google.com/file/d/1QxJtUZZlediHwuNkpoRzVVEpwU4syph8/view
+ PPT LINK:-https://drive.google.com/file/d/1QxJtUZZlediHwuNkpoRzVVEpwU4syph8/view
 
 We are developing a citizen-focused civic reporting platform that connects people who encounter hazards with the teams responsible for resolving them.
 
